@@ -44,7 +44,6 @@ Customers Table:
 ✓ Employment Status: Employment status as at when account was opened
 # Tech Stack
 ✓ SQL Server Express 2022: SQL Server Express is a free edition of SQL Server, an enterprise-level database management system provided by Microsoft. 
- 
 ✓ SQL Server Management Studio 19.1: SQL Server Management Studio (SSMS) is a graphical tool for managing and developing SQL Server databases.
 Project Scope
 ✓ Data Exploration: Explore the data to understand its characteristics and discover patterns.
@@ -56,3 +55,7 @@ Project Scope
 ✓ Reporting & Documentation: Export the segmented dataset and document the methodologies employed in the project.
 
 ✓ Customer Segmentation: Decide on segmentation criteria and use the RFM scores to Segment customers into groups.
+
+# Dataset
+The first dataset can be found in the dataset folder.
+Below is a link to the second dataset (Transaction_dataset) for the project. It is a large dataset with the amount of 283041 rows link to dataset - https://drive.google.com/file/d/19TCGl1dHKmRdG_awTd2JAaB11WPuZEVQ/view?usp=sharing
