@@ -58,4 +58,5 @@ Project Scope
 
 # Dataset
 The first dataset can be found in the dataset folder.
-Below is a link to the second dataset (Transaction_dataset) for the project. It is a large dataset with the amount of 283041 rows link to dataset - https://drive.google.com/file/d/19TCGl1dHKmRdG_awTd2JAaB11WPuZEVQ/view?usp=sharing
+Below is a link to the second dataset (Transaction_dataset) for the project. It is a large dataset with the amount of 283041 rows.
+link to dataset - https://drive.google.com/file/d/19TCGl1dHKmRdG_awTd2JAaB11WPuZEVQ/view?usp=sharing
